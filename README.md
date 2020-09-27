@@ -8,17 +8,17 @@ it has different varsion , many version will conflict to other thats why i will 
 # Create Virtual Envrionment
  **conda create --prefix ./stat-env**  
  
- **conda active ./stat-env **  
+ **conda active ./stat-env**  
  
- **config --set env_prompt '({name} ' **  
+ **config --set env_prompt '({name} '**  
  
- **conda deactivate **  
+ **conda deactivate**  
  
- **conda activate ./stat-env **  
+ **conda activate ./stat-env**  
  
  **conda install jupyterlab pandas matplotlib**  
  
- **jupyter lab **  
+ **jupyter lab**  
  
 
 # Getting started wih Data with python code
