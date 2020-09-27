@@ -24,9 +24,10 @@ it has different varsion , many version will conflict to other thats why i will 
 # Getting started wih Data with python code
 
 import panda as pd  
+  
 url = "filepath.csv"  
-
 da = pd.read_csv(url) ## read the data from the csv file  
+  
 
 
 
